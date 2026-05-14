@@ -1,2 +1,7 @@
 /venv
 /dataset
+/catboost_info
+
+submission.csv
+
+/src/__pycache__
